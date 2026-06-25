@@ -1,0 +1,33 @@
+body{
+    background-color: #f0f0f0;
+}
+.caja_prin{
+    width: 100%;
+    height: 500px;
+    background-color: #e0e9dc;
+    border: 2px solid #000;
+    margin: 20px auto;
+}
+.caja_1{
+    width: 150px;
+    height: 150px;
+    background-color: #ff0000;
+    border: 2px solid #000;
+    display: inline-block;
+}
+.caja_2{
+    width: 150px;
+    height: 150px;
+    background-color: #00ff00;
+    
+    border: 2px solid #000;
+    display: inline-block;
+}
+.caja_3{
+    width: 150px;
+    height: 150px;
+    background-color: #0000ff;
+    
+    border: 2px solid #000;
+    display: inline-block;
+}
